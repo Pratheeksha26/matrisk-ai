@@ -1,0 +1,48 @@
+# Core Deep Learning (Install this first)
+torch
+
+# Core Data Science & ML
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+
+# PyTorch Geometric (Modern version handles extensions internally)
+torch-geometric
+
+# Material Science Intelligence
+pymatgen
+matminer
+mp-api
+ase
+
+# Financial Analytics & Survival
+yfinance
+statsmodels
+arch
+lifelines
+
+# MLOps & Experiment Tracking
+mlflow
+dvc
+optuna
+python-dotenv
+
+# Dashboard & Visualization
+streamlit
+plotly
+shap
+
+# Data Quality & Validation
+great-expectations
+
+# Development & Testing (DevOps)
+pytest
+pytest-cov
+flake8
+black
+mypy
+requests
+joblib

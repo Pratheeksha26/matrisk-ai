@@ -1,0 +1,39 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Data & Large Files
+data/raw/
+data/interim/
+data/processed/
+data/external/
+
+# Models & Artifacts
+models/*.pt
+models/*.pth
+mlruns/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# DVC
+.dvc/cache
+.dvc/tmp
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS Specific
+.DS_Store
+Thumbs.db
